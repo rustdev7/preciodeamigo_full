@@ -1,0 +1,1 @@
+import{s as e}from"./index-BLsLGWu0.js";var t=e(`FileOpener`);export{t as FileOpener};

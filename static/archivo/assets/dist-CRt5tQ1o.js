@@ -1,0 +1,1 @@
+import{n as e}from"./chunk-D-KKor_A.js";var t,n=e((()=>{t=globalThis||self}));export{n,t};
